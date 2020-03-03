@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "itemsstayintheenchantingtable",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Items Stay In The Enchanting Table",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Tfarecnim"
@@ -18,11 +18,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "tfar.example.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "itemsstayintheenchantingtable.mixins.json"
   ],
 
   "depends": {

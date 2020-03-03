@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package tfar.itemsstayintheenchantingtable;
 
 import net.fabricmc.api.ModInitializer;
 
