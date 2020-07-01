@@ -4,7 +4,8 @@
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "EnchantingTableContainerMixin",
-    "EnchantingTableBlockEntityMixin"
+    "EnchantingTableBlockEntityMixin",
+    "EnchantingTableBlockEntityRendererMixin"
   ],
   "client": [
   ],
